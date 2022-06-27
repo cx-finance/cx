@@ -1,5 +1,3 @@
-## Xin Chen
-
 Assistant Professor of Finance
 
 [Shenzhen University WeBank Institute of FinTech](http://swift.szu.edu.cn/info/1027/1591.htm)
